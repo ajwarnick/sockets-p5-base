@@ -1,0 +1,22 @@
+{
+  "name": "sockets-p5-base",
+  "version": "1.0.0",
+  "description": "A base project for using sockets and p5 on a node server. Based on Shared Drawing Canvas by Daniel Shiffman https://github.com/shiffman and Shared-Canvas by https://github.com/bohdandrahan.",
+  "main": "sktech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p5",
+    "node",
+    "sockets",
+    "creative",
+    "code"
+  ],
+  "author": "Anthony Warnick",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
