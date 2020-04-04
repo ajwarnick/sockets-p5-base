@@ -6,12 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajwarnick/sockets-p5-base"
+  },
   "keywords": [
     "p5",
     "node",
     "sockets",
-    "creative",
-    "code"
+    "creative code"
   ],
   "author": "Anthony Warnick",
   "license": "MIT",
